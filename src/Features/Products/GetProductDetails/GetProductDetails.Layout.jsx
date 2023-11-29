@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import "./GetProductDetails.Style.css";
+import "./GetProductDetails.style.css";
 import { useSelector } from "react-redux";
 import EditProd from "../GetAllProducts/AdminFeatures/EditProd";
 
